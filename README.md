@@ -22,8 +22,8 @@ app.get('/getting-started/', (req, res, next) => {
 
 ## Exercise
 
-See [04-resource-hints](https://github.com/voorhoede/performance-masterclass-2017-10/tree/04-resource-hints).
+See [04-resource-hints](https://github.com/voorhoede/performance-masterclass-2018-10/tree/04-resource-hints).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).

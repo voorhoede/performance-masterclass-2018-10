@@ -36,8 +36,8 @@
 
 ## Exercise
 
-See [02-picture-solution](https://github.com/voorhoede/performance-masterclass-2017-10/tree/02-picture).
+See [02-picture-solution](https://github.com/voorhoede/performance-masterclass-2018-10/tree/02-picture).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).

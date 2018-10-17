@@ -6,9 +6,9 @@ Use `font-display` to remove the Flash of Invisible Text (FOIT) in [src/dist/css
 
 ## Solution
 
-See [07-font-display-solution](https://github.com/voorhoede/performance-masterclass-2017-10/tree/07-font-display-solution).
+See [07-font-display-solution](https://github.com/voorhoede/performance-masterclass-2018-10/tree/07-font-display-solution).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).
 

@@ -36,7 +36,7 @@
 
 ## Exercise
 
-See [02-picture-solution](https://github.com/voorhoede/performance-masterclass-2018-10/tree/02-picture).
+See [02-picture](https://github.com/voorhoede/performance-masterclass-2018-10/tree/02-picture).
 
 ---
 

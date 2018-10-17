@@ -9,9 +9,9 @@ This prevents `defer` race issues in <IE10 and prevents queueing of multiple scr
 
 ## Exercise
 
-See [09-load-js](https://github.com/voorhoede/performance-masterclass-2017-10/tree/09-load-js)
+See [09-load-js](https://github.com/voorhoede/performance-masterclass-2018-10/tree/09-load-js)
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).
 

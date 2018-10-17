@@ -8,9 +8,9 @@ Note: if you change the font file names, be sure to also update them in [src/dis
 
 ## Solution
 
-See [06-subset-fonts-solution](https://github.com/voorhoede/performance-masterclass-2017-10/tree/06-subset-fonts-solution).
+See [06-subset-fonts-solution](https://github.com/voorhoede/performance-masterclass-2018-10/tree/06-subset-fonts-solution).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).
 

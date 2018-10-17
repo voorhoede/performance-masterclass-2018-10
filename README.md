@@ -9,9 +9,9 @@ Note: paint timings are logged to the console (see [src/_base/paint-timings.js](
 
 ## Solution
 
-See [04-resource-hints-solution](https://github.com/voorhoede/performance-masterclass-2017-10/tree/04-resource-hints-solution)
-and [04-resource-hints-bonus](https://github.com/voorhoede/performance-masterclass-2017-10/tree/04-resource-hints-bonus).
+See [04-resource-hints-solution](https://github.com/voorhoede/performance-masterclass-2018-10/tree/04-resource-hints-solution)
+and [04-resource-hints-bonus](https://github.com/voorhoede/performance-masterclass-2018-10/tree/04-resource-hints-bonus).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).

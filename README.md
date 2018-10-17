@@ -7,10 +7,10 @@
 
 ## Solution
 
-See [10-load-css-solution](https://github.com/voorhoede/performance-masterclass-2017-10/tree/10-load-css-solution).
-and [10-load-css-bonus](https://github.com/voorhoede/performance-masterclass-2017-10/tree/10-load-css-bonus).
+See [10-load-css-solution](https://github.com/voorhoede/performance-masterclass-2018-10/tree/10-load-css-solution).
+and [10-load-css-bonus](https://github.com/voorhoede/performance-masterclass-2018-10/tree/10-load-css-bonus).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).
 

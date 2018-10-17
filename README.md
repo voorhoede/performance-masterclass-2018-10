@@ -10,9 +10,9 @@ Note: we disabled the `cssLoaded` cookie check in `server.js` in order to always
 
 ## Solution
 
-See [11-critical-css-solution](https://github.com/voorhoede/performance-masterclass-2017-10/tree/11-critical-css-solution).
+See [11-critical-css-solution](https://github.com/voorhoede/performance-masterclass-2018-10/tree/11-critical-css-solution).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).
 

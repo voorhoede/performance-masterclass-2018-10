@@ -8,13 +8,13 @@
 * Load `index.css` blocking if cookie matches current stylesheet name (`latestCssLoaded` is true) in [src/_base/layout.html](src/_base/layout.html).
 * Load `index.css` async if cookie does not match current stylesheet name, by including `load-css.html` in [src/_base/layout.html](src/_base/layout.html).
 
-See [overview of all changes](https://github.com/voorhoede/performance-masterclass-2017-10/commit/4a0a19e84d959fd8edcffc74cbca7c9ad92fbfc8).
+See [overview of all changes](https://github.com/voorhoede/performance-masterclass-2018-10/commit/4a0a19e84d959fd8edcffc74cbca7c9ad92fbfc8).
 
 ## Exercise
 
-See [10-load-css](https://github.com/voorhoede/performance-masterclass-2017-10/tree/10-load-css).
+See [10-load-css](https://github.com/voorhoede/performance-masterclass-2018-10/tree/10-load-css).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).
 

@@ -7,8 +7,8 @@ You can find the scaled images in `jpg` and `webp` format in [src/assets/img/](s
 
 ## Solution
 
-See [02-picture-solution](https://github.com/voorhoede/performance-masterclass-2017-10/tree/02-picture-solution).
+See [02-picture-solution](https://github.com/voorhoede/performance-masterclass-2018-10/tree/02-picture-solution).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).

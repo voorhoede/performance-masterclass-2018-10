@@ -7,9 +7,9 @@
 
 ## Exercise
 
-See [06-subset-fonts](https://github.com/voorhoede/performance-masterclass-2017-10/tree/06-subset-fonts).
+See [06-subset-fonts](https://github.com/voorhoede/performance-masterclass-2018-10/tree/06-subset-fonts).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).
 

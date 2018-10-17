@@ -26,9 +26,9 @@ Note: Use `font-display: block` for icons since they have no fallback.
 
 ## Exercise
 
-See [07-font-display](https://github.com/voorhoede/performance-masterclass-2017-10/tree/07-font-display).
+See [07-font-display](https://github.com/voorhoede/performance-masterclass-2018-10/tree/07-font-display).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).
 

@@ -26,8 +26,8 @@ const viewportWidth = toInteger(req.headers['viewport-width'])
 
 ## Exercise
 
-See [03-client-hints](https://github.com/voorhoede/performance-masterclass-2017-10/tree/03-client-hints).
+See [03-client-hints](https://github.com/voorhoede/performance-masterclass-2018-10/tree/03-client-hints).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).

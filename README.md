@@ -10,8 +10,8 @@ Make the images on the homepage display the DPR, Width and Viewport-Width. Right
 
 ## Solution
 
-See [03-client-hints-solution](https://github.com/voorhoede/performance-masterclass-2017-10/tree/03-client-hints-solution).
+See [03-client-hints-solution](https://github.com/voorhoede/performance-masterclass-2018-10/tree/03-client-hints-solution).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).

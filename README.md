@@ -8,10 +8,10 @@
 
 ## Solution
 
-See [08-load-fonts-solution](https://github.com/voorhoede/performance-masterclass-2017-10/tree/08-load-fonts-solution)
-and [08-load-fonts-solution-bonus](https://github.com/voorhoede/performance-masterclass-2017-10/tree/08-load-fonts-solution-bonus).
+See [08-load-fonts-solution](https://github.com/voorhoede/performance-masterclass-2018-10/tree/08-load-fonts-solution)
+and [08-load-fonts-solution-bonus](https://github.com/voorhoede/performance-masterclass-2018-10/tree/08-load-fonts-solution-bonus).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).
 

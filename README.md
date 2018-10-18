@@ -25,8 +25,8 @@ Note: be sure to switch to the H2 version on [https://localhost:6523/](https://l
 
 ## Exercise
 
-See [05-server-push](https://github.com/voorhoede/performance-masterclass-2017-10/tree/05-server-push).
+See [05-server-push](https://github.com/voorhoede/performance-masterclass-2018-10/tree/05-server-push).
 
 ---
 
-Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2017-10).
+Return to [Front-end Performance Masterclass](https://github.com/voorhoede/performance-masterclass-2018-10).

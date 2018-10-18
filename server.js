@@ -54,10 +54,10 @@ app.use('*/index.html', (req, res) => res.redirect(301, `${path.dirname(req.orig
  * - Serve (revisioned) files from `cacheDir` when available.
  */
 app.set('etag', true);
-//app.use(revConfig.pattern, cacheControlImmutable());
-//app.get('*', acceptsHtml(false), usePreCompressed(path.join(__dirname, config.cacheDir)));
-//app.use(shrinkRay());
-//app.use(express.static(path.join(__dirname, config.cacheDir), { index: false, lastModified: false }));
+app.use(revConfig.pattern, cacheControlImmutable());
+app.get('*', acceptsHtml(false), usePreCompressed(path.join(__dirname, config.cacheDir)));
+app.use(shrinkRay());
+app.use(express.static(path.join(__dirname, config.cacheDir), { index: false, lastModified: false }));
 
 /**
  * Static files:
@@ -90,7 +90,7 @@ app.get('*', acceptsHtml(), (req, res, next) => {
     fs.stat(`${config.baseDir}${filename}`, (err, stats) => {
         if (err || !stats.isFile()) {
             return next();
-        } 
+        }
         res.render(`./${filename}`, {}, (err, html) => {
             if (err) {
                 return res.status(500).send('Internal Server Error');

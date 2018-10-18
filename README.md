@@ -24,7 +24,7 @@
 
 ## Exercise
 
-See [01-srcset](https://github.com/voorhoede/performance-masterclass-2018-10)/tree/01-srcset).
+See [01-srcset](https://github.com/voorhoede/performance-masterclass-2018-10/tree/01-srcset).
 
 ---
 
